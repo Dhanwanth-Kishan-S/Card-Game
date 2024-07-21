@@ -22,11 +22,11 @@ Welcome!! This is a fun and interactive card-matching game where users flip card
 
 ## Live Demo
 
-You can play the game by visiting the live demo here: [Play the Emoji Card Game](https://dhanwanth-kishan-s.github.io/Simple-Card-Game/)
+You can play the game by visiting the live demo here: [Play the Emoji Card Game](https://dhanwanth-kishan-s.github.io/Card-Game/)
 
 ## How to Run Locally
 
 1. *Clone the Repository:*
 
    ```bash
-   git clone https://github.com/Dhanwanth-Kishan-S/Simple-Card-Game.git
+   git clone https://github.com/Dhanwanth-Kishan-S/Card-Game.git
