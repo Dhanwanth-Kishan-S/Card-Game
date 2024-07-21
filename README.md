@@ -29,4 +29,5 @@ You can play the game by visiting the live demo here: [Play the Game Here.](http
 1. *Clone the Repository:*
 
    ```bash
+   git clone https://github.com/Dhanwanth-Kishan-S/Emoji-Flip-Challenge.git
   
