@@ -12,7 +12,7 @@ Welcome!! This is a fun and interactive card-matching game where users flip card
 
 1. *Start the Game:* Click on any card to flip it over and reveal the emoji.
 2. *Find Pairs:* Continue flipping cards to find matching pairs of emojis.
-3. *Win the Game:* Try to match all the pair of cards within 45s.If timer reaches O second the game stops..Hit restart and play again.
+3. *Win the Game:* Try to match all the pair of cards within 45s.If timer reaches O,the game stops.No matter,try again and have fun!!
 
 ## Technologies Used
 
