@@ -4,7 +4,7 @@ Welcome!! This is a fun and interactive card-matching game where users flip card
 
 ## Features
 
-- *Simple Gameplay:* Flip cards to reveal emojis and try to match pairs.
+- *Simple Gameplay:* Flip cards to reveal emojis and try to match all the pairs within allotted time(45s).
 - *Responsive Design:* The game is designed to be accessible on various devices.
 - *Interactive:* Engaging and easy-to-understand gameplay for all ages.
 
@@ -12,7 +12,7 @@ Welcome!! This is a fun and interactive card-matching game where users flip card
 
 1. *Start the Game:* Click on any card to flip it over and reveal the emoji.
 2. *Find Pairs:* Continue flipping cards to find matching pairs of emojis.
-3. *Win the Game:* The game ends when all pairs have been matched.
+3. *Win the Game:* Try to match all the pair of cards within 45s.If timer reaches O second the game stops..Hit restart and play again.
 
 ## Technologies Used
 
